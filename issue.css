@@ -1,0 +1,27 @@
+body{
+    padding: 20px;
+}
+
+.head-link{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    background:#333333;
+    margin: 10px;
+    border: solid 2px black;
+}
+
+.head-link:hover{
+    background: green;
+    color: black;
+    border: solid 2px black	;
+}
+
+legend{
+    color: #000000;
+    padding: 20px;
+}
+
+option{
+    width: 100px;
+}
